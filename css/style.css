@@ -1,0 +1,46 @@
+/*œœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœ*/
+/*                       Materialize CSS Alternatives                         */
+/*œœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœ*/
+/*
+Color Scheme: None Current
+Mobile Ready: False
+API Touches: 0, Nowhere
+
+
+*/
+/* DEFAULT */
+
+h1 {}
+h2 {}
+h3 {}
+h4 {}
+h5 {}
+
+p {}
+a {}
+
+div {
+  position: relative;
+}
+
+/* Nav Bar */
+#navbar {
+  height:;
+  width:;
+  align-items: stretch;
+}
+
+#navbar ul {}
+#navbar li {}
+
+/* Footer */
+#footer {}
+
+/********************************* TODAY PAGE *********************************/
+.today-summary {}
+
+/******************************** WEEKLY PAGE *********************************/
+.week-summary {}
+
+/******************************* OVERVIEW PAGE ********************************/
+.overview-summary {}
